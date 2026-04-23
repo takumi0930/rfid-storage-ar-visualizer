@@ -11,11 +11,11 @@ rfid-storage-ar-visualizer/
 ├── rfid/
 │ ├── rfid-read.py # タグの商品IDを読み取る
 │ └── rfid-write.py # タグに商品IDを書き込む
-├── webapp/
-│ ├── instance/ # database
-│ ├── static/ # 3Dモデルとマーカー情報
-│ ├── templates/ # html
-│ └── app.py # webアプリの起動ファイル
+└── webapp/
+  ├── instance/ # database
+  ├── static/ # 3Dモデルとマーカー情報
+  ├── templates/ # html
+  └── app.py # webアプリの起動ファイル
 ```
 
 ## 機能
